@@ -1,0 +1,226 @@
+#labelHelp,
+.catalogFolder-l,
+.catalogFolder-r,
+.catalogFolderHeader,
+.catalogFolderHeader-l,
+.catalogFolderHeader-r,
+.catalogFolderRule,
+.catalogFolderRule-l,
+.catalogFolderRule-r,
+.catalogItem-l,
+.catalogItem-r,
+.catalogItemHeader,
+.catalogItemHeader-l,
+.catalogItemHeader-r,
+.catalogItemRule,
+.catalogItemRule-l,
+.catalogItemRule-r,
+.categorySidebarHeader-l,
+.categorySidebarHeader-r,
+.poweredByPageflex,
+.navBarSeparator {
+  display: none;
+}
+
+td.basic {
+  vertical-align: top;
+}
+
+.popupArea {
+  background: none;
+  padding: 13px 15px 10px0;
+}
+
+// new add to cart button in step content area
+.CartButtons {
+  float: right;
+}
+
+// Price Estimate wrapping container
+.priceHint {
+  padding-left: 100px;
+  width: 100%;
+}
+
+// Address Book Upload Download PopUps
+.AddressBookPopUpArea {
+  width: 325px;
+}
+
+.AddressTile {
+  background-color: #f5f5f5;
+  float: left;
+  height: 115px;
+  margin: 10px;
+  overflow: auto;
+  padding: 7px;
+  width: 175px;
+}
+
+.AddressTileHeader {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.areaGraphicNextStep,
+.areaGraphicNextStepRollover {
+  background: url('Images/StepNext.gif') no-repeat;
+  height: 27px;
+  width: 22px;
+}
+
+.areaGraphicPreviousStep,
+.areaGraphicPreviousStepRollover {
+  background: url('Images/StepPrevious.gif') no-repeat;
+  height: 27px;
+  width: 22px;
+}
+
+.areaGraphicNextPrevSeparatorLine {
+  background: url('Images/StepNextPrevSeparator.gif') no-repeat;
+  height: 27px;
+  width: 28px;
+}
+
+.viewSwitcher {
+  color: #fff;
+  cursor: pointer;
+  font-size: 10px;
+  padding: 3px 15px00;
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.endOfButtons {
+  clear: both;
+  font-size: 0;
+  margin: 0;
+}
+
+// Printing Options
+
+.childArea {
+  background: #efefef;
+  border: 1px solid #0069aa;
+  padding: 13px 15px 18px;
+}
+
+// Order summary page
+
+.orderSummaryCell {
+  border: 1px solid #da710b;
+  padding: 4px0 4px 8px;
+}
+
+// Common classes for content inside areas
+
+.fieldSpacer {   // for editable form fields
+  margin-top: 2px;
+}
+
+.fieldHeader {
+  font-weight: bold;
+  padding: 12px0 3px0;
+  vertical-align: top;
+}
+
+.fieldCell { // for read-only form fields
+  padding: 0 15px 3px0;
+  vertical-align: top;
+}
+
+// Final step warnings
+
+.finalStepWarningsHeader {
+  font-weight: bold;
+}
+
+.finalStepWarningsFooter {
+  font-size: 10px;
+  padding: 10px0 5px 20px;
+}
+
+.dataListChoicesHeader,
+.dataListChoices {
+  border-bottom: 1px solid #da710b;
+  padding: 0 15px 2px0;
+}
+
+.dataListChoicesHeader {
+  font-weight: bold;
+}
+
+.simpleTableHeader {
+  font-weight: bold;
+  padding: 0 15px 2px0;
+}
+
+.simpleTable {
+  padding: 0 15px 2px0;
+}
+
+.MultiShippingButton {
+  height: 27px;
+  margin-bottom: 5px;
+}
+
+.ShippingAddressBlock {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.ShippingAddressBlockCart {
+  margin: 10px;
+}
+
+.listPreviewTable {
+  background-color: #fff;
+  border: 1px solid #fff;
+  padding: 10px;
+}
+
+.listPreviewTableHeader {
+  background: #eee;
+  font-size: 8px;
+  font-weight: bold;
+  padding: 0 15px 2px0;
+}
+
+.areaGraphicCartStep,
+.areaGraphicCartStepRollover {
+  height: 15px;
+  padding-left: 5px;
+  padding-top: 1px;
+  width: 20px;
+}
+
+.areaGraphicCartStep div,
+.areaGraphicCartStepRollover div {
+  background: url('Images/cart_iconx2.gif') no-repeat;
+  height: 13px;
+  margin-bottom: 3px;
+  width: 20px;
+}
+
+.areaGraphicCartStepRollover div {
+  background-position: 0 -13px;
+}
+
+.areaGraphicNextCartSeparatorLine {
+  height: 15px;
+  width: 50px;
+}
+
+.areaGraphicCancelStep div,
+.areaGraphicCancelStepRollover div {
+  background: url('Images/CartCancel.gif') no-repeat;
+  height: 11px;
+  margin-bottom: 2px;
+  margin-left: 4px;
+  width: 13px;
+}
+
+.areaGraphicCancelStepRollover div {
+  background-position: 0 -11px;
+}
